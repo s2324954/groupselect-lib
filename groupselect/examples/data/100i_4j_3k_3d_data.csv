@@ -1,0 +1,101 @@
+ID,gender,age,region,nation,media
+AA,male,older,rural,England,1
+AB,male,younger,urban,England,1
+AC,female,younger,rural,Scotland,1
+AD,female,older,urban,Wales,1
+AE,male,younger,urban,Northern Ireland,1
+AF,male,older,rural,England,0
+AG,male,older,rural,England,0
+AH,female,older,rural,Scotland,1
+AI,male,younger,urban,Wales,1
+AJ,female,younger,urban,Northern Ireland,1
+AK,male,older,rural,England,1
+AL,female,older,rural,England,1
+AM,male,older,urban,Scotland,0
+AN,female,younger,urban,Wales,0
+AO,female,older,urban,Northern Ireland,1
+AP,female,younger,urban,England,1
+AQ,male,younger,urban,England,1
+AR,female,older,urban,Scotland,1
+AS,female,older,urban,Wales,1
+AT,male,older,urban,Northern Ireland,0
+AU,male,younger,urban,England,0
+AV,male,younger,urban,England,1
+AW,female,older,urban,Scotland,1
+AX,male,older,urban,Wales,1
+AY,female,younger,rural,Northern Ireland,1
+AZ,male,younger,rural,England,1
+BA,female,older,urban,England,0
+BB,male,older,urban,Scotland,0
+BC,female,younger,urban,Wales,1
+BD,male,younger,urban,Northern Ireland,1
+BE,male,younger,urban,England,1
+BF,female,older,urban,England,1
+BG,male,older,urban,Scotland,1
+BH,male,older,urban,Wales,0
+BI,male,older,urban,Northern Ireland,0
+BJ,female,older,urban,Scotland,1
+BK,female,younger,urban,Northern Ireland,1
+BL,male,younger,urban,England,1
+BM,female,younger,urban,Scotland,1
+BN,male,younger,urban,Northern Ireland,1
+BO,male,older,urban,Northern Ireland,0
+BP,male,older,rural,England,0
+BQ,female,older,rural,England,1
+BR,male,older,rural,Northern Ireland,1
+BS,male,younger,urban,England,1
+BT,female,younger,urban,Wales,1
+BU,female,older,urban,Northern Ireland,1
+BV,male,older,urban,Northern Ireland,0
+BW,female,younger,rural,England,0
+BX,male,younger,urban,Northern Ireland,1
+BY,male,older,rural,England,1
+BZ,female,older,urban,Wales,1
+CA,female,older,urban,Scotland,1
+CB,male,younger,urban,England,1
+CC,male,older,urban,Wales,0
+CD,male,older,rural,England,0
+CE,female,older,rural,Wales,1
+CF,male,older,urban,Scotland,1
+CG,male,older,rural,Scotland,1
+CH,male,younger,rural,England,1
+CI,female,younger,rural,Northern Ireland,1
+CJ,male,younger,urban,Wales,0
+CK,male,younger,urban,Wales,0
+CL,male,older,rural,Northern Ireland,1
+CM,male,older,rural,Northern Ireland,1
+CN,male,younger,rural,Wales,1
+CO,female,younger,rural,England,1
+CP,male,older,urban,England,1
+CQ,male,older,urban,England,0
+CR,female,older,urban,Scotland,0
+CS,female,younger,urban,Northern Ireland,1
+CT,female,older,urban,England,1
+CU,female,older,urban,England,1
+CV,male,older,urban,England,1
+CW,male,older,urban,Wales,1
+CX,female,older,rural,Wales,0
+CY,male,older,rural,Wales,0
+CZ,male,younger,rural,Wales,1
+DA,male,younger,urban,England,1
+DB,male,older,urban,Northern Ireland,1
+DC,female,older,urban,Scotland,1
+DD,male,younger,rural,Northern Ireland,1
+DE,female,older,urban,England,0
+DF,female,younger,urban,England,0
+DG,female,younger,urban,Northern Ireland,1
+DH,male,older,urban,England,1
+DI,female,older,urban,Northern Ireland,1
+DJ,male,older,urban,Wales,1
+DK,female,younger,rural,England,1
+DL,male,older,urban,Wales,0
+DM,female,younger,rural,Scotland,0
+DN,male,younger,urban,Northern Ireland,1
+DO,male,older,rural,Northern Ireland,1
+DP,female,younger,rural,Scotland,1
+DQ,male,younger,urban,England,1
+DR,female,younger,urban,England,1
+DS,male,older,urban,England,0
+DT,female,older,urban,England,0
+DU,male,older,urban,Wales,1
+DV,female,younger,urban,England,1
