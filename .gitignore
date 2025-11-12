@@ -1,4 +1,5 @@
-poetry.lock
+uv.lock
+.python-version
 
 # Created by https://www.toptal.com/developers/gitignore/api/python,venv,pycharm+all,visualstudiocode,linux,macos,windows
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,venv,pycharm+all,visualstudiocode,linux,macos,windows
